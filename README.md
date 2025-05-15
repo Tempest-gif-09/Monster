@@ -11,6 +11,6 @@ you are the detective there are 4 suspects. There are clues and witnesses you ha
 are you ready for the task or not?
 
 
-monster is a nigga...
+sheikh sahab 
 
 
