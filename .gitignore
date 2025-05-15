@@ -1,0 +1,36 @@
+# Visual Studio specific files
+.vs/
+
+# Optional but recommended for .NET/Visual Studio projects:
+# Binaries
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+build/
+bld/
+[Bb]uild[Ss]olution/
+_build/
+
+# NuGet packages folder
+packages/
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.VisualState.xml
+TestResult.xml
